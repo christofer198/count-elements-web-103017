@@ -4,4 +4,5 @@ def count_elements(array)
   array.map do |x|
     hsh[x] = array.count(x)
   end
+  return hsh
 end
