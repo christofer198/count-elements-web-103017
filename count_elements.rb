@@ -5,4 +5,3 @@ def count_elements(array)
     hsh[x] = array.count(x)
   end
 end
- 
